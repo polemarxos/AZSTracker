@@ -3,6 +3,8 @@
 Minimap helpers and a live rarity odds panel for **[Azeroth Survivors](https://wow.aethus.pl)**
 
 Never miss a Battleground Cache or guardian lair, and see what your luck actually buys you on card rolls.
+<img width="462" height="232" alt="Screenshot_20261030012353" src="https://github.com/user-attachments/assets/9530e7c2-2f21-466f-87a9-eb92ab26f980" />
+<img width="361" height="349" alt="Screenshot_20261030012532" src="https://github.com/user-attachments/assets/0d6a13f5-a7bf-47fc-a755-cb803a127991" />
 
 ## Features
 

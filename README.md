@@ -3,8 +3,7 @@
 Minimap helpers and a live rarity odds panel for **[Azeroth Survivors](https://wow.aethus.pl)**
 
 Never miss a Battleground Cache or guardian lair, and see what your luck actually buys you on card rolls.
-<img width="462" height="232" alt="Screenshot_20261030012353" src="https://github.com/user-attachments/assets/9530e7c2-2f21-466f-87a9-eb92ab26f980" />
-<img width="361" height="349" alt="Screenshot_20261030012532" src="https://github.com/user-attachments/assets/0d6a13f5-a7bf-47fc-a755-cb803a127991" />
+
 
 ## Features
 
@@ -17,7 +16,7 @@ Your chance of a **Rare**, **Epic**, or **Legendary** card for:
 | Rings     | —           |
 | Trinkets  | —           |
 | Amulets   | +0.5 on top |
-
+ <img width="462" height="232" alt="Screenshot_20261030012353" src="https://github.com/user-attachments/assets/9530e7c2-2f21-466f-87a9-eb92ab26f980" />
 Odds are derived from your **luck** stat plus a **level bonus** (+1% per level, 30% at most). Amulets get their extra bonus on top.
 
 - Updates live during the run
@@ -36,7 +35,7 @@ Odds are derived from your **luck** stat plus a **level bonus** (+1% per level, 
 - Lair icons draw **above** chests when they overlap
 - The game’s stock red lair flag is hidden while markers are on (restored when you hide markers)
 
-Works with round and square minimaps.
+<img width="361" height="349" alt="Screenshot_20261030012532" src="https://github.com/user-attachments/assets/0d6a13f5-a7bf-47fc-a755-cb803a127991" />
 
 ## Install
 

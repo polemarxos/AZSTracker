@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: AZS Tracker
+## Notes: Minimap chest & lair markers, and a live rarity odds panel from your luck.
+## Author: Polemarxos
+## SavedVariables: AZSTrackerDB
+AZSTracker.lua

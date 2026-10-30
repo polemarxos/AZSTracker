@@ -3,6 +3,13 @@
 Minimap helpers and live information panels for **[Azeroth Survivors](https://wow.aethus.pl)**
 
 ## Features
+<img width="385" height="525" alt="εικόνα" src="https://github.com/user-attachments/assets/9a0e9c8f-0ca4-4cab-aadb-af53631490d7" /> <img width="543" height="779" alt="εικόνα" src="https://github.com/user-attachments/assets/047cf3ae-bc4c-40c3-8a3b-c9491070c371" />
+
+<img width="484" height="312" alt="εικόνα" src="https://github.com/user-attachments/assets/e02015e5-0ef4-4310-a2e1-a0db1e344ee5" /><img width="443" height="310" alt="εικόνα" src="https://github.com/user-attachments/assets/ff562fd5-62a2-4b49-8597-cf186e27cbe8" />
+<img width="461" height="263" alt="εικόνα" src="https://github.com/user-attachments/assets/cfb4f1d1-f403-4a47-babd-f8288e33c68b" /><img width="279" height="304" alt="εικόνα" src="https://github.com/user-attachments/assets/62901e12-c953-4687-a99c-2b5a799ca642" />
+
+
+
 
 ### Minimap button
 

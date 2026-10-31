@@ -3,4 +3,5 @@
 ## Notes: Minimap markers, odds, damage meter, attributes, and boss timers.
 ## Author: Polemarxos
 ## SavedVariables: AZSTrackerDB
+AZSTrackerIcons.lua
 AZSTracker.lua
